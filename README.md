@@ -12,6 +12,6 @@ Projeto simples que visa compreender o funcionamento do floating action buttton
 
 ## Pré-requisitos
 
-Projeto criado e desenvolvido na IDE android studio versao 3.5
-API 30 
-Android 9 
+- Projeto criado e desenvolvido na IDE android studio versao 3.5
+- API 30 
+- Android 9 
